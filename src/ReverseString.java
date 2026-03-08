@@ -3,7 +3,6 @@
 // You must do this by modifying the input array in-place with O(1) extra memory.
 
 import java.util.Arrays;
-import java.util.HashMap;
 
 public class ReverseString {
     public void reverseString(char[] s) {
